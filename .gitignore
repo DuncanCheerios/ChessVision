@@ -244,3 +244,19 @@ poetry.toml
 .ruff_cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,images
+ChessClassifier_ChrisSorenson.pptx
+ChessClassifier_Sorenson.mp4
+ChessClassifierReport_ChrisSorenson.odt
+ChessPieceClassifier.ipynb
+ChrisSorensonProject.zip
+ObjectDetection.ipynb
+.vscode/launch.json
+.vscode/settings.json
+SecondAttempt/keras_metadata.pb
+SecondAttempt/saved_model.pb
+ThirdAttempt/keras_metadata.pb
+ThirdAttempt/saved_model.pb
+ThirdAttempt/variables/variables.data-00000-of-00001
+ThirdAttempt/variables/variables.index
+SecondAttempt/variables/variables.data-00000-of-00001
+SecondAttempt/variables/variables.index
