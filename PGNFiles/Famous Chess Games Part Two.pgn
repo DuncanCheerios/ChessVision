@@ -1,0 +1,363 @@
+[Event "Sochi 28th RSFSR ch"]
+[Site "Sochi 28th RSFSR ch"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Lev Polugaevsky"]
+[Black "R. Gibiatovich Nezhmetdinov"]
+[Result "0-1"]
+[ECO "A53"]
+[PlyCount "66"]
+[EventDate "1958.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e4 exd4 5. Qxd4 Nc6 6. Qd2 g6 7. b3 Bg7 8. Bb2
+{After losing time with the queen in the opening, White can't count on
+advantage} O-O 9. Bd3 Ng4 10. Nge2 (10. Nf3 {Leads to a normal position}) 10...
+Qh4 11. Ng3 Nge5 12. O-O f5 13. f3 (13. exf5 {And White has nothing to fear})
+13... Bh6 14. Qd1 f4 {Now Black has clear initiative} 15. Nge2 g5 16. Nd5 g4
+17. g3 fxg3 18. hxg3 Qh3 19. f4 {[pgndiagram]This is where the magic begins}
+Be6 $1 {Not the hardest move to see, but a pleasant one} 20. Bc2 $2 {The
+losing moment} (20. fxe5 Bxd5 {Is the point, Be3 is a deadly threat}) (20. Bxe5
+{White could have maybe survived with giving up the bishop} Nxe5 21. Kf2 Qh2+
+22. Ke3 Bxd5 23. Rh1 Rxf4 {[pgndiagram] The same theme as in the game} 24. gxf4
+Bxf4+ 25. Nxf4 Qg3+ 26. Kd4 Bxe4 27. Kxe4 Re8 {[pgndiagram] And apparently
+Black doesn't have anything decisive here. But in practical game it is
+impossible to defend this}) 20... Rf7 $2 {Preventing Qd5 reply to come with a
+check, but not the most precise} (20... Bxd5 21. Qxd5+ (21. cxd5 Rxf4 $1 {Was
+winning} 22. Rxf4 Bxf4 23. gxf4 g3) 21... Rf7 {And Black is winning
+nevertheless, although more conservatively}) 21. Kf2 $2 {It is hard to blame
+the players for missing the nuances of this extremely complicated position} (
+21. Bxe5 {Was a  better option but still..}) 21... Qh2+ 22. Ke3 Bxd5 23. cxd5 {
+[pgndiagram]} (23. Rh1 Rxf4 {Is losing here} 24. gxf4 Bxf4+ 25. Nxf4 Qg3+ {And
+because of the knight on c6, the d4 square is unavailable to White king. That
+is the reason why taking with the bishop on e5 is given as better by the engine
+}) 23... Nb4 24. Rh1 {[pgndiagram] Now comes a thunderous counterpunch} Rxf4 $3
+{Amazing move by Nezhmetdinov, and one for the books} 25. Rxh2 (25. gxf4 Bxf4+
+26. Nxf4 Nxc2+ {Is even worses in this scenario} 27. Qxc2 Qxc2 {And Black wins}
+) 25... Rf3+ 26. Kd4 Bg7 {[pgndiagram] White is helpless} 27. a4 {After this
+Black announces mate in 8} (27. Nc3 {Trying to give up the queen for a rook,
+was slightly better} Ned3+ 28. e5 Bxe5+ 29. Kc4 Nxb2+ 30. Kxb4 Bxc3+ 31. Ka3
+Nxd1 32. Rxd1 Rxg3 {[pgndiagram] And Black is "only" in a winning engame})
+27... c5+ 28. dxc6 bxc6 29. Bd3 Nexd3+ 30. Kc4 d5+ 31. exd5 cxd5+ 32. Kb5 Rb8+
+33. Ka5 Nc6+ {[pgndiagram] White really could have played the remaining 34 Ka6
+Ndb4 and allow the mate. What a game!} 0-1
+
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.22"]
+[Round "11"]
+[White "Mikhail Botvinnik"]
+[Black "Jose Raul Capablanca"]
+[Result "1-0"]
+[ECO "E49"]
+[PlyCount "81"]
+[EventDate "1938.11.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+Bd3 {The samisch variation of the Nimzo Indian which is more popular in the 4
+f3 version today} O-O 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Bb2 Qd7 13. a4
+Rfe8 14. Qd3 c4 15. Qc2 Nb8 16. Rae1 Nc6 17. Ng3 Na5 {Capablanca decides to go
+for the a4 pawn, but he underestimates White's central advance} 18. f3 Nb3 19.
+e4 Qxa4 20. e5 Nd7 21. Qf2 {Not allowing Nc5} g6 22. f4 {White has very strong
+initiative} f5 23. exf6 Nxf6 24. f5 Rxe1 25. Rxe1 Re8 {[pgndiagram] This is
+the key position. White is winning, but he has to play energetic and only
+moves to prove it} 26. Re6 $1 {Forcing Black to take, and creating a strong e6
+passed pawn} Rxe6 (26... Kf7 27. Rxf6+ Kxf6 28. fxg6+ {Is deadly for Black})
+27. fxe6 Kg7 28. Qf4 {Threatening Qc7} Qe8 29. Qe5 (29. Qc7+ Kg8 30. Qe5 Qe7
+31. Ba3 {Was winning as well}) 29... Qe7 {[pgndiagram]It seems that Black has
+managed to consolidate, but now comes a fantastic combination} 30. Ba3 $3 {The
+move of all moves} Qxa3 31. Nh5+ $1 {A great tactical combo to win the f6
+knight and promote the pawn. The knight on b3 is mere spectator to the events
+happening on the other side of the board} gxh5 32. Qg5+ Kf8 33. Qxf6+ Kg8 34.
+e7 {Black has only some "spite" checks left} Qc1+ 35. Kf2 Qc2+ 36. Kg3 Qd3+ 37.
+Kh4 Qe4+ 38. Kxh5 Qe2+ 39. Kh4 Qe4+ 40. g4 Qe1+ 41. Kh5 {Not a bad way to
+present yourself on an international stage} 1-0
+
+[Event "Kirovabad sf ch-URS"]
+[Site "Kirovabad sf ch-URS"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Vladimir Bagirov"]
+[Black "Eduard Gufeld"]
+[Result "0-1"]
+[ECO "E84"]
+[PlyCount "64"]
+[EventDate "1973.??.??"]
+
+1. d4 g6 {The modern!} 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 {Most modern players
+transpose to King's Indian when faced with d4} 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8
+8. Qd2 a6 {This plan of a6-b5 has been played against various variations of
+the King's Indian, including the Saemisch} 9. Bh6 b5 10. h4 e5 11. Bxg7 Kxg7
+12. h5 Kh8 13. Nd5 bxc4 14. hxg6 fxg6 15. Qh6 Nh5 16. g4 Rxb2 17. gxh5 g5 18.
+Rg1 g4 19. O-O-O Rxa2 20. Nef4 exf4 21. Nxf4 Rxf4 22. Qxf4 c3 23. Bc4 Ra3 24.
+fxg4 Nb4 25. Kb1 Be6 26. Bxe6 Nd3 27. Qf7 Qb8+ 28. Bb3 Rxb3+ 29. Kc2 Nb4+ 30.
+Kxb3 Nd5+ 31. Kc2 Qb2+ 32. Kd3 Qb5+ 0-1
+
+[Event "Kirovabad sf ch-URS"]
+[Site "Kirovabad sf ch-URS"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Vladimir Bagirov"]
+[Black "Eduard Gufeld"]
+[Result "0-1"]
+[ECO "E84"]
+[PlyCount "64"]
+[EventDate "1973.??.??"]
+
+1. d4 g6 {The modern!} 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 {Most modern players
+transpose to King's Indian when faced with d4} 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8
+8. Qd2 a6 {This plan of a6-b5 has been played against various variations of
+the King's Indian, including the Saemisch} 9. Bh6 b5 10. h4 e5 11. Bxg7 Kxg7
+12. h5 Kh8 13. Nd5 bxc4 14. hxg6 fxg6 15. Qh6 Nh5 16. g4 Rxb2 17. gxh5 g5 18.
+Rg1 g4 19. O-O-O Rxa2 20. Nef4 exf4 21. Nxf4 Rxf4 22. Qxf4 c3 23. Bc4 Ra3 24.
+fxg4 Nb4 25. Kb1 Be6 26. Bxe6 Nd3 27. Qf7 Qb8+ 28. Bb3 Rxb3+ 29. Kc2 Nb4+ 30.
+Kxb3 Nd5+ 31. Kc2 Qb2+ 32. Kd3 Qb5+ 0-1
+
+[Event "02, Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1985.01.19"]
+[Round "2"]
+[White "Alexander Beliavsky"]
+[Black "John Nunn"]
+[Result "0-1"]
+[ECO "E81"]
+[PlyCount "54"]
+[EventDate "1985.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Once again we have an immortal
+game from the Saemisch variation of the King's Indian defence} O-O 6. Be3 Nbd7
+7. Qd2 c5 8. d5 Ne5 9. h3 Nh5 10. Bf2 f5 11. exf5 {[pgndiagram] Black has
+played a very creative opening, and this is where the fun begins} Rxf5 $1 {
+Directly into double attack} 12. g4 Rxf3 13. gxh5 Qf8 {Black doesn't have
+anything concrete as a compensation for the piece, but White is dominated.
+Black only needs to develop the remaining pieces and he will be winning} 14.
+Ne4 (14. Bg2 Rxf2) 14... Bh6 $5 (14... Qf5 {Was actually quite strong here} 15.
+Ng5 Rf4 {And Black is completely winning}) 15. Qc2 Qf4 $2 {[pgndiagram] Not
+the best} (15... Be3 {Computer enjoys this position, and indicated this bishop
+sortie as the strongest move.} 16. Nxf3 Nxf3+ 17. Kd1 Nd4 {IS the point, when
+Black remains material up}) 16. Ne2 (16. Nxf3 {Is actually quite possible now}
+Nxf3+ 17. Kd1 Bf5 18. Bg3 $1 Qxe4 19. Qxe4 Bxe4 20. Bg2 {And White is an
+exchange up}) 16... Rxf2 $3 17. Nxf2 Nf3+ 18. Kd1 Qh4 {[pgndiagram] The knight
+is threatened, but also the mate on e1 is looming. Bf5 is coming as well.
+White's paralyzed pieces are a sorry sight compared to Black's dominating
+minor pieces and bishops cutting throught the board} 19. Nd3 {There is nothing
+better} Bf5 20. Nec1 Nd2 $3 {Going for the Nxc4-Ne3 route} 21. hxg6 hxg6 (21...
+Nxc4 {Was perfectly possible} 22. Qf2 Qe4) 22. Bg2 Nxc4 23. Qf2 Ne3+ 24. Ke2
+Qc4 25. Bf3 Rf8 26. Rg1 Nc2 27. Kd1 Bxd3 {[pgndiagram] And here, White decided
+he has had enough} 0-1
+
+[Event "Buenos Aires ARG"]
+[Site "Buenos Aires ARG"]
+[Date "1994.10.??"]
+[Round "8"]
+[White "Alexey Shirov"]
+[Black "Judit Polgar"]
+[Result "0-1"]
+[ECO "B54"]
+[PlyCount "58"]
+[EventDate "1994.??.??"]
+
+1. e4 c5 2. Nf3 e6 {I believe that the strongest female ever has played the
+Paulsen/Taimanov for the most of her life} 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6.
+g4 a6 7. Be3 Nge7 8. Nb3 b5 9. f4 Bb7 10. Qf3 g5 $1 {This was all home
+preparation, of course} 11. fxg5 Ne5 {After this Black already grabs the
+initiative} 12. Qg2 b4 13. Ne2 {[pgndiagram] Take a deep look at the position
+and try to imagine Black's next move.} h5 $3 {Of course, I can't imagine
+anyone playing this without preparation. What a move} 14. gxh5 (14. gxh6 f5 15.
+gxf5 Nxf5 {Is excellent for Black}) 14... Nf5 $1 {[pgndiagram] Everything
+comes with a tempo} 15. Bf2 Qxg5 $1 {An elementary knight fork is threatened}
+16. Na5 (16. Qxg5 Nf3+ 17. Kd1 Nxg5 18. exf5 Bxh1) 16... Ne3 $1 17. Qg3 (17.
+Bxe3 Qxe3 18. Nxb7 Nf3+ {And White has to give up his queen}) 17... Qxg3 18.
+Nxg3 Nxc2+ 19. Kd1 Nxa1 {[pgndiagram] After all the fireworks, Black has
+reached a winning endgame. In modern chess, there is rarely a checkmate on the
+board} 20. Nxb7 b3 $1 {Black manages to get her knight out of trouble with the
+help of this move} 21. axb3 Nxb3 22. Kc2 Nc5 23. Nxc5 dxc5 {The rest is matter
+of technique} 24. Be1 Nf3 25. Bc3 Nd4+ 26. Kd3 Bd6 27. Bg2 Be5 28. Kc4 Ke7 29.
+Ra1 Nc6 0-1
+
+[Event "Brussel"]
+[Site "Brussels BEL"]
+[Date "1991.08.??"]
+[Round "9"]
+[White "Vassily Ivanchuk"]
+[Black "Artur Yusupov"]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "78"]
+[EventDate "1991.??.??"]
+
+1. c4 e5 2. g3 d6 3. Bg2 g6 4. d4 Nd7 5. Nc3 Bg7 6. Nf3 Ngf6 7. O-O O-O 8. Qc2
+Re8 9. Rd1 c6 10. b3 Qe7 11. Ba3 e4 12. Ng5 e3 13. f4 Nf8 14. b4 Bf5 15. Qb3 h6
+16. Nf3 Ng4 17. b5 g5 {[pgndiagram] This is probably not fully correct, but in
+practical game it is much easier to find attacking instead of defensive
+resources} (17... Qc7 {Is more timid}) 18. bxc6 bxc6 19. Ne5 $1 gxf4 20. Nxc6
+Qg5 {White has to be careful though} 21. Bxd6 Ng6 {Bringing the last piece
+into play} 22. Nd5 $6 {[pgndiagram]} (22. Qb5 Qh5 23. h4 {Pinning the bishop,
+was probably the best defence.} Nxh4 24. gxh4 Qxh4 25. Qxf5 Qf2+ 26. Kh1 Qh4+ {
+And Black probably doesn+t have anything better but to force a draw}) 22... Qh5
+23. h4 Nxh4 $5 {[pgndiagram] And this sacrifice is definitely not correct..
+but it works wonderfully} (23... fxg3 24. Bxg3 Nxh4 25. Qb5 {Was correct, with
+dynamical balance}) (23... Nf2 {Is also a better move than the one that
+happened in the game}) 24. gxh4 $6 (24. Nce7+ $3 {Would have casted serious
+doubts on black's concept} Kh8 25. Nxf4 Nf3+ 26. exf3 Qh2+ 27. Kf1 {And Black
+doesn't have any attack}) 24... Qxh4 $2 {[pgndiagram] Actually, a losing move}
+(24... Be4 {Was probably a better option} 25. Nce7+ Kh8 26. Bxf4 Qxh4 27. Rf1
+Rxe7 28. Nxe7 Qxe7 {When Black is "only" an exchange down}) 25. Nde7+ $2 {It
+was better to give the check with the other knight} (25. Nce7+ Kh8 26. Nxf5
+Qh2+ 27. Kf1 {Leaves Black without attacking ideas} Re6 28. Bxf4) 25... Kh8 26.
+Nxf5 Qh2+ 27. Kf1 Re6 28. Qb7 $2 {[pgndiagram] This is where White finally
+goes wrong} (28. Nce7 {Preventing Rg6, was still winning for White}) 28... Rg6
+$3 {A brilliant rook sacrifice} 29. Qxa8+ Kh7 {[pgndiagram] It turns out that
+White is without defence against Qh1 followed by Nh2 threat} 30. Qg8+ (30. Nce7
+Qh1+ 31. Bxh1 Nh2+ 32. Ke1 Rg1#) 30... Kxg8 31. Nce7+ Kh7 32. Nxg6 fxg6 33.
+Nxg7 Nf2 $3 {[pgndiagram]A final touch. Nh3 is deadly threat} (33... Kxg7 34.
+Rab1) 34. Bxf4 (34. Ne6 Nh3) 34... Qxf4 35. Ne6 Qh2 36. Rdb1 Nh3 37. Rb7+ Kh8
+38. Rb8+ Qxb8 39. Bxh3 Qg3 {Not fully correct, but extremely interesting and
+exciting attack by Black} 0-1
+
+[Event "Kirovabad sf ch-URS"]
+[Site "Kirovabad sf ch-URS"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Vladimir Bagirov"]
+[Black "Eduard Gufeld"]
+[Result "0-1"]
+[ECO "E84"]
+[PlyCount "64"]
+[EventDate "1973.??.??"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f3 {Here we go. Another Saemisch
+transposition from the Modern defence} O-O 6. Be3 Nc6 7. Nge2 Rb8 8. Qd2 a6 9.
+Bh6 b5 {a6-b5 plan has become popular against many variations of the King's
+Indian} 10. h4 e5 {[pgndiagram ] Probably somewhat too early} (10... Bxh6 {
+Would lead to interesting complications, for instance} 11. Qxh6 bxc4 12. h5 e5
+13. Nd5 Be6 14. Nxf6+ Qxf6 15. d5 Nb4) 11. Bxg7 Kxg7 12. h5 Kh8 {An ugly
+looking move. Black is clearly worse at this point} 13. Nd5 bxc4 14. hxg6 fxg6
+15. Qh6 Nh5 16. g4 $2 {[pgndiagram] A turning point, and a premature agression}
+(16. O-O-O {Stoping all counterplay first, was better} Rf7 17. g4 Nf6 18. Qxg6
+Qg8 19. Qxg8+ Nxg8 {And Black has the worse endgame}) 16... Rxb2 $1 {A
+brilliant counterpunch and a correct piece sacrifice} 17. gxh5 g5 {With the
+h-file closed and the queen stranded on h6, it is now White who has to play
+precisely} 18. Rg1 g4 $1 {Closing the g file as well} 19. O-O-O (19. fxg4 Qh4+)
+19... Rxa2 20. Nef4 $2 {[pgndiagram] Desperation, probably resulting from an
+inadequate psychological state} (20. dxe5 {White could have mantained the
+balance with this move} Nxe5 21. Nef4 Kg8 22. Ng6 hxg6 23. Bxc4 Nxc4 24. Qxg6+
+{And a draw is the result}) 20... exf4 21. Nxf4 Rxf4 $1 {[pgndiagram] The most
+radical way of preventing Ng6} 22. Qxf4 c3 23. Bc4 Ra3 24. fxg4 Nb4 25. Kb1 {
+[pgndiagram] The culmination of this exciting game} Be6 $3 {A brilliant
+sacrifice} 26. Bxe6 Nd3 $3 {The point. Clearance sacrifice that opens the b
+file} 27. Qf7 (27. Rxd3 Qb8+) 27... Qb8+ 28. Bb3 Rxb3+ 29. Kc2 Nb4+ $1 {A
+finishing touch} 30. Kxb3 Nd5+ 31. Kc2 Qb2+ 32. Kd3 Qb5+ {And due to mate in
+four moves, White resigned. One of the best combinations I have seen and
+another brilliant tactical game from the player with the Black pieces} 0-1
+
+[Event "Casino de Barcelona"]
+[Site "Barcelona ESP"]
+[Date "2007.10.19"]
+[Round "2"]
+[White "Michal Krasenkow"]
+[Black "Hikaru Nakamura"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2668"]
+[BlackElo "2648"]
+[PlyCount "56"]
+[EventDate "2007.10.18"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 a5 7. Nc3 c6 8. d4
+Nbd7 9. Qc2 b6 10. e4 Ba6 11. Nd2 (11. e5 Ne8 12. h4 {Is probably slightly
+better}) 11... c5 12. exd5 cxd4 13. Nb5 exd5 14. Nxd4 Rc8 15. Re1 b5 {
+[pgndiagram] It is amazing how  the position resulting from a seemingly modest
+opening turned out to be so complicated} 16. Bb2 Re8 17. Qd1 bxc4 18. bxc4 Qb6
+19. Rb1 dxc4 {[pgndiagram]} 20. Nc6 {White embarks on an attractive
+combination that should win material, but he misses Black's devilish response}
+Rxc6 21. Bxf6 {It seems that Black is bound to lose material} Qxf2+ $3 {
+[pgndiagram] Were it not for this resource, Black would be busted. But
+amazingly, this move leads to a forced win. I wonder how far in advance did
+Nakamura envision this and how did he feel when he played this over the board.}
+22. Kxf2 Bc5+ 23. Kf3 {The king is caught in a mating net and there is no way
+out} Rxf6+ 24. Kg4 Ne5+ 25. Kg5 (25. Rxe5 {Doesn't help} Bc8+ 26. Rf5 Bxf5+ 27.
+Kh4 Rh6+ 28. Kg5 Bc8 {[pgndiagram] And Black wins, e.g.} 29. Kf4 Bd6+ 30. Kf3
+Rf6#) 25... Rg6+ 26. Kh5 (26. Kf4 {Running to the other side of the board
+doesn't help} Nd3+ 27. Kf3 Rf6+ 28. Kg4 Bc8+ 29. Kh4 {[pgndiagram] And now
+comes the attractive:} Rxe1 30. Qxe1 Rh6+ 31. Kg5 f6# {And the modest f pawn
+delivers the fatal blow in this variation}) 26... f6 {[pgndiagram] Taking the
+g square away and threatening Rh6 mate} (26... Bc8 {Was probably faster, but
+the text move also wins}) 27. Rxe5 Rxe5+ 28. Kh4 Bc8 {Rh6 is a deadly threat.
+The game that will appear in every anthology featuring Nakamura's games} 0-1
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1994.02.??"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[ECO "A33"]
+[PlyCount "77"]
+[EventDate "1994.??.??"]
+
+1. d4 {After the first two matches with Kasparov, Karpov, once an exclusive e4
+player, switched completely to d4.} Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3
+Nc6 6. Bg2 Bc5 7. Nb3 Be7 8. Nc3 O-O 9. O-O d6 10. Bf4 Nh5 11. e3 Nxf4 12. exf4
+Bd7 13. Qd2 Qb8 14. Rfe1 {White has slight advantage due to his spacial
+domination} g6 {Preventing f5 in radical fashion, but weakening the king.} (
+14... a5 {Was good} 15. f5 e5 16. Be4 a4 17. Nc1) (14... a6 {Is not optimal,
+because there is no a4, distrubing White's knight} 15. Rad1 Rd8 16. f5 e5) 15.
+h4 $1 {And Karpov immediately exploits that factor} a6 16. h5 b5 17. hxg6 hxg6
+18. Nc5 dxc5 $2 {[pgndiagram] In an unpleasant position this is already a
+decisive mistake. It is probably based on misscalculation; I imagine Topalov
+missed White's 20th move.} 19. Qxd7 Rc8 {[pgndiagram] It seems that Black has
+defended tactically, but White has a fantastic tactical response.} 20. Rxe6 $3
+{A bolt from the blue} (20. Bxc6 Ra7 {Wins the piece back and Black is more or
+less OK there}) 20... Ra7 (20... fxe6 {Taking the rook immediately is even
+worse} 21. Qxe6+ Kg7 22. Bxc6 Ra7 23. Be4 {And Black is busted}) 21. Rxg6+ $3 {
+[pgndiagram] A second rook sacrifice} (21. Qd5 {Leads to the same}) 21... fxg6
+22. Qe6+ Kg7 23. Bxc6 {With two pawns for the exchange and weak Black king,
+White is winning. But some precision is still required} Rd8 24. cxb5 Bf6 25.
+Ne4 Bd4 26. bxa6 Qb6 27. Rd1 Qxa6 $2 {[pgndiagram] Allowing a decisive blow}
+28. Rxd4 $3 {Another rook sacrifice in this game, this time for a piece
+instead of a pawn} Rxd4 29. Qf6+ {White's pieces are superbly coordinated} Kg8
+(29... Kh7 30. Ng5+ Kg8 31. Qxg6+) 30. Qxg6+ Kf8 31. Qe8+ {[pgndiagram]} (31.
+Qh6+ {Was slightly stronger} Kg8 32. Nf6+ Kf7 33. Nh5 {But human is not keen
+to allow checks on the first rank} Rd1+ 34. Kh2 {And White wins}) 31... Kg7 32.
+Qe5+ Kg8 33. Nf6+ Kf7 34. Be8+ Kf8 35. Qxc5+ Qd6 36. Qxa7 Qxf6 37. Bh5 Rd2 38.
+b3 Rb2 39. Kg2 {5 pawns are more than enough for exchange. Topalov resigned
+here. A great game from a great champion in great form} 1-0
+
+[Event "Corus Group C"]
+[Site "Wijk aan Zee NED"]
+[Date "2004.01.24"]
+[Round "12"]
+[White "Magnus Carlsen"]
+[Black "Sipke Ernst"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2484"]
+[BlackElo "2474"]
+[PlyCount "57"]
+[EventDate "2004.01.10"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 (11. Bd2 {Is another variation, currently
+more popular}) 11... Ngf6 12. O-O-O Be7 {Planing castling short. Black has  to
+be careful about potential g4 ideas.} 13. Ne4 Qa5 14. Kb1 O-O 15. Nxf6+ (15. g4
+{Is possible}) 15... Nxf6 16. Ne5 Rad8 17. Qe2 c5 $2 {[pgndiagram] This game
+is perfect illustration of the typical attacking ideas in the Caro-Kann. This
+move is premature as it breaks the communication between Black queen and
+Black's kingside} 18. Ng6 $1 {It begins} fxg6 $2 {And this is surely a losing
+move} (18... Rfe8 {Was lesser evil} 19. Nxe7+ Rxe7 20. dxc5 {And White has the
+superior minor piece}) 19. Qxe6+ Kh8 20. hxg6 $3 {[pgndiagram] Introducing
+fresh threats against h6 point} (20. Qxe7 Nd5 21. Bd2 Qxa2+ 22. Kxa2 Nxe7 {
+Gives Black sufficient hopes of survival in the endgame}) 20... Ng8 {Seemingly
+impregnating h6 forever, but..} 21. Bxh6 $3 {You will have none of that, says
+the future World Champion. Every move introduces a new threat} gxh6 22. Rxh6+
+$3 {Another sacrifice, diverting the knight on g8} Nxh6 23. Qxe7 {[pgndiagram]
+Black is a piece and a rook up, but he is helpless against Qh7 threat} Nf7 {
+The only way of prolonging the battle} 24. gxf7 {You can see how Black's queen
+is unable to jump to h5 or somewhere} Kg7 25. Rd3 {The rook joins the attack} (
+25. Qe5+ Kxf7 26. Rd3 {Was probably even stronger}) 25... Rd6 (25... Qa6 {
+Giving up his queen, would have prolonged the battle further, but it wouldn't
+change the evaluation} 26. Rg3+ Qg6 27. Rxg6+ Kxg6 28. d5) 26. Rg3+ Rg6 27.
+Qe5+ Kxf7 28. Qf5+ Rf6 29. Qd7# {And an attractive "epaulette" mate crowns
+this spectacular game. Not bad for a 14 year old} 1-0
+
